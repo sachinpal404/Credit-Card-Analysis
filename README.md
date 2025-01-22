@@ -10,11 +10,10 @@ Develop a comprehensive credit card weekly dashboard that provides real-time ins
 - PostgreSQL
 
 ### Visualization
-![Screenshot 2025-01-22 094845](https://github.com/user-attachments/assets/e6458e0f-6636-47a6-9f5c-57f061680566)
+![Screenshot 2025-01-22 124130](https://github.com/user-attachments/assets/b310689f-8b37-4255-bfea-c452edac7811)
+![Screenshot 2025-01-22 124202](https://github.com/user-attachments/assets/82f9848e-d8f9-4ed8-92da-a92133de0703)
+![Screenshot 2025-01-22 124236](https://github.com/user-attachments/assets/d8af90ba-4f6c-4114-a9a0-1f5da547cb5c)
 
-![Screenshot 2025-01-22 094934](https://github.com/user-attachments/assets/d35df355-b170-4f02-9d2b-e8119c1d1b5d)
-
-![Screenshot 2025-01-22 115347](https://github.com/user-attachments/assets/b026477d-c173-4418-a60e-eb82e881fc13)
 
 ### Insights
 - **WoW Change**: Revenue increased by 28.8%, Total Transaction Amount & Count increased by 34.89% & 3.57%
