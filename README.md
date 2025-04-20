@@ -29,5 +29,5 @@ Develop a comprehensive credit card weekly dashboard that provides real-time ins
 [Click to view the live dashboard](https://app.fabric.microsoft.com/reportEmbed?reportId=3bf99d17-4bba-4b90-92c3-fb10ee69c5b1&autoAuth=true&ctid=23b0daf1-173a-4a20-afa0-36d69a739904) 
 
 
-<small> The data used in this project is only for training purposes, which is not real. <small>
+<small> The data used in this project is only for training purposes, which is not real. </small>
 
