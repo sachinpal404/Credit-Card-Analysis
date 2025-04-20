@@ -26,5 +26,6 @@ Develop a comprehensive credit card weekly dashboard that provides real-time ins
 - **Activation Rate**: 57.5%
 - **Delinquency Rate**: 6.06%
 
-[Click to view the live dashboard](https://app.fabric.microsoft.com/reportEmbed?reportId=3bf99d17-4bba-4b90-92c3-fb10ee69c5b1&autoAuth=true&ctid=23b0daf1-173a-4a20-afa0-36d69a739904)
+[Click to view the live dashboard](https://app.fabric.microsoft.com/reportEmbed?reportId=3bf99d17-4bba-4b90-92c3-fb10ee69c5b1&autoAuth=true&ctid=23b0daf1-173a-4a20-afa0-36d69a739904) 
+*The data used in this project is only for training purposes, which is not real.
 
