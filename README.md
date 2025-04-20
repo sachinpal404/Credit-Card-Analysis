@@ -9,6 +9,7 @@ Develop a comprehensive credit card weekly dashboard that provides real-time ins
 - Power Query
 - PostgreSQL
 
+[Click to view the live dashboard](https://app.fabric.microsoft.com/reportEmbed?reportId=3bf99d17-4bba-4b90-92c3-fb10ee69c5b1&autoAuth=true&ctid=23b0daf1-173a-4a20-afa0-36d69a739904) 
 ### Visualization
 ![Screenshot 2025-01-22 124130](https://github.com/user-attachments/assets/b310689f-8b37-4255-bfea-c452edac7811)
 ![Screenshot 2025-01-22 124202](https://github.com/user-attachments/assets/82f9848e-d8f9-4ed8-92da-a92133de0703)
@@ -25,9 +26,4 @@ Develop a comprehensive credit card weekly dashboard that provides real-time ins
 - **Top Contributing States**: Maharashtra, Tamil Nadu & Uttar Pradesh contribute 68% of revenue
 - **Activation Rate**: 57.5%
 - **Delinquency Rate**: 6.06%
-
-[Click to view the live dashboard](https://app.fabric.microsoft.com/reportEmbed?reportId=3bf99d17-4bba-4b90-92c3-fb10ee69c5b1&autoAuth=true&ctid=23b0daf1-173a-4a20-afa0-36d69a739904) 
-
-
-<small> The data used in this project is only for training purposes, which is not real. </small>
 
