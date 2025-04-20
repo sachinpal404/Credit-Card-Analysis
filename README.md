@@ -1,4 +1,4 @@
-## Credit_Card_Analysis_using_Power_BI
+## Credit_Card_Analysis_Dashboard
 
 ### Project Objective
 Develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
